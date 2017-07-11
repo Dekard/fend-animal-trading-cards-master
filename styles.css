@@ -5,6 +5,7 @@ h3 {
 img {
     display: block;
     margin: auto;
+    border-radius: 5px;
 }
 ul {
   padding: 0px;
@@ -20,6 +21,7 @@ li {
   height: 625px;
   outline: #cecece solid 1px;
   box-shadow: 10px 10px 0px #e6e6e6;
+
 }
 .innerbox {
   outline: #cecece solid 1px;
