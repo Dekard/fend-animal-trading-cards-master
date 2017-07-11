@@ -1,15 +1,25 @@
+/* Tags for the animal card */
 h3 {
   padding: 20px 0px 0px 25px;
 }
+img {
+    display: block;
+    margin: auto;
+}
+ul {
+  padding: 0px;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+/* Classes for the animal card */
 .outsidebox {
   width: 350px;
   height: 625px;
   outline: #cecece solid 1px;
   box-shadow: 10px 10px 0px #e6e6e6;
-}
-img {
-    display: block;
-    margin: auto;
 }
 .innerbox {
   outline: #cecece solid 1px;
@@ -18,9 +28,6 @@ img {
 }
 .facts {
   font-style: italic;
-}
-li {
-    list-style-type: none;
 }
 .notation {
   font-weight: bold;
